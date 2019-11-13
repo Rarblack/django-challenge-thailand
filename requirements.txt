@@ -1,0 +1,4 @@
+Django==2.2.7
+django-jet2==1.0.10
+djangorestframework==3.10.3
+drf-nested-routers==0.91
